@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -21,4 +22,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0217-contains-duplicate) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
