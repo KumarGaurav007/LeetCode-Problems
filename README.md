@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
@@ -35,11 +36,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -48,9 +51,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
