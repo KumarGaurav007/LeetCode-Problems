@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0704-binary-search) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0268-missing-number) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Hash Table
 |  |
 | ------- |
