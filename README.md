@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0415-add-strings) |
 ## Binary Search
