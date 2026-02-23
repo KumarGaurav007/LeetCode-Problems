@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0415-add-strings) |
 | [2235-add-two-integers](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/2235-add-two-integers) |
