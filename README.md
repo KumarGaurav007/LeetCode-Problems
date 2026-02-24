@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0766-toeplitz-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1470-shuffle-the-array](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/1470-shuffle-the-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1929-concatenation-of-array](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
