@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0704-binary-search) |
+| [0766-toeplitz-matrix](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0766-toeplitz-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -127,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [0766-toeplitz-matrix](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0766-toeplitz-matrix) |
 <!---LeetCode Topics End-->
