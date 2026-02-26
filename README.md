@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3467-transform-array-by-parity](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/3467-transform-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3467-transform-array-by-parity](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/3467-transform-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0169-majority-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3467-transform-array-by-parity](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/3467-transform-array-by-parity) |
 ## String Matching
 |  |
 | ------- |
