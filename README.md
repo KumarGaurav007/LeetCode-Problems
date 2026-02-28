@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0415-add-strings) |
