@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0766-toeplitz-matrix) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/1470-shuffle-the-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3467-transform-array-by-parity](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/3467-transform-array-by-parity) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
 | ------- |
@@ -167,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0766-toeplitz-matrix) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
