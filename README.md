@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0766-toeplitz-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -190,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
