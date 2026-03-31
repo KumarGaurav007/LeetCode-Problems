@@ -1,7 +1,7 @@
 class Solution {
     public int[] dailyTemperatures(int[] temp) {
         int result[] =  new int [temp.length];
-        Stack<Integer> stack = new Stack<>();
+        Deque<Integer> stack = new ArrayDeque<>();
         for (int day=0; day<temp.length; day++){
             while(!stack.isEmpty() && temp[day]>temp[stack.peek()]){
                 int prevDay = stack.peek();
