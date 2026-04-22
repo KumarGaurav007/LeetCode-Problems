@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1441-build-an-array-with-stack-operations](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/1470-shuffle-the-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1929-concatenation-of-array](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0415-add-strings) |
+| [1441-build-an-array-with-stack-operations](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 ## Sliding Window
 |  |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0739-daily-temperatures](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0739-daily-temperatures) |
+| [1441-build-an-array-with-stack-operations](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 ## Divide and Conquer
 |  |
 | ------- |
