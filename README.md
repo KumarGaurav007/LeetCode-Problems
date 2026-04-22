@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0169-majority-element) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0415-add-strings) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [1441-build-an-array-with-stack-operations](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 ## Divide and Conquer
