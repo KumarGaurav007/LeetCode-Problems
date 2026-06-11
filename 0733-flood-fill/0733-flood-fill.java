@@ -1,0 +1,21 @@
+class Solution {
+    public int[][] floodFill(int[][] image, int sr, int sc, int color) {
+        int rows = image.length;
+        int cols = image[0].length;
+        boolean visited[][] = new boolean[rows][cols];
+        int orgColor = image[sr][sc];
+        dfsHelper(image,visited,sr, sc, orgColor, color);
+        return image;
+    }
+    void dfsHelper(int[][] image, boolean visited[][], int sr, int sc, int orgColor, int newColor){
+        if(sr<0 || sr>=image.length || sc<0 || sc>=image[0].length || visited[sr][sc] || image[sr][sc] != orgColor){
+            return;
+        }
+        visited[sr][sc] = true;
+        image[sr][sc] = newColor;
+        dfsHelper(image, visited, sr+1, sc, orgColor, newColor);
+        dfsHelper(image, visited, sr-1, sc, orgColor, newColor);
+        dfsHelper(image, visited, sr, sc+1, orgColor, newColor);
+        dfsHelper(image, visited, sr, sc-1, orgColor, newColor);
+    }
+}
