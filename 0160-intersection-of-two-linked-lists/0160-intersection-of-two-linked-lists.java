@@ -10,6 +10,7 @@
  * }
  */
 public class Solution {
+    /* Approach 01
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
         ListNode tempA = headA; 
         ListNode tempB = headB;
@@ -29,6 +30,24 @@ public class Solution {
                 tempB = tempB.next;
         }
         return null;
+        
+    }
+    */
+    public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
+
+        if(headA == null || headB == null){
+            return null;
+        }        
+        ListNode tempA = headA; 
+        ListNode tempB = headB;
+
+        while(tempA != tempB ){
+            
+            tempA = (tempA == null) ? headB : tempA.next;
+            tempB = (tempB == null) ? headA : tempB.next;
+           
+        } 
+        return tempA;
         
     }
 }
