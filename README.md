@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0217-contains-duplicate) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0707-design-linked-list](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0707-design-linked-list) |
