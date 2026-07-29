@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0455-assign-cookies) |
+| [0844-backspace-string-compare](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Greedy
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0415-add-strings) |
 | [0709-to-lower-case](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0709-to-lower-case) |
+| [0844-backspace-string-compare](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Binary Search
 |  |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0415-add-strings) |
+| [0844-backspace-string-compare](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
 | [1441-build-an-array-with-stack-operations](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 ## Sliding Window
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 ## Divide and Conquer
