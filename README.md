@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0645-set-mismatch) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0415-add-strings) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3467-transform-array-by-parity](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/3467-transform-array-by-parity) |
@@ -367,4 +370,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
