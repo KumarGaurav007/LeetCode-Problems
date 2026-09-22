@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1544-make-the-string-great](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/1544-make-the-string-great) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0901-online-stock-span) |
 ## Tree
 |  |
 | ------- |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0707-design-linked-list) |
+| [0901-online-stock-span](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0901-online-stock-span) |
 ## Union-Find
 |  |
 | ------- |
@@ -406,4 +409,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/KumarGaurav007/LeetCode-Problems/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
